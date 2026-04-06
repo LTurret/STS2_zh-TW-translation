@@ -28,8 +28,8 @@
   "REWARDS_FTUE_TITLE": "提示：不要忘了拿獎勵！",
   "SHUFFLE_FTUE_DESCRIPTION": "如果沒有可以抽取的牌，你的[b]棄牌堆[/b]（位於右側）將會被打亂洗入你的[b]抽牌堆[/b]（位於左側）。",
   "SHUFFLE_FTUE_TITLE": "提示：沒牌了？",
-  "TUTORIAL_FTUE_BODY_1": "通過打出手中的卡牌來擊敗敵人們！\n\n卡牌需要[gold]能量[/gold]才能打出。\n當能量耗盡時，請結束你的回合。\n\n在每回合開始時，你會抽取新的卡牌，你的[gold]能量[/gold]也會得到補充。",
-  "TUTORIAL_FTUE_BODY_2": "當敵人將要攻擊你時，通過打出防御牌來獲得[gold]格擋[/gold]。\n\n[gold]格擋[/gold]會減少即將受到的攻擊傷害，但會在你的下一個回合開始時[red]消失[/red]。",
+  "TUTORIAL_FTUE_BODY_1": "透過打出手中的卡牌來擊敗敵人們！\n\n卡牌需要[gold]能量[/gold]才能打出。\n當能量耗盡時，請結束你的回合。\n\n在每回合開始時，你會抽取新的卡牌，你的[gold]能量[/gold]也會得到補充。",
+  "TUTORIAL_FTUE_BODY_2": "當敵人將要攻擊你時，透過打出防御牌來獲得[gold]格擋[/gold]。\n\n[gold]格擋[/gold]會減少即將受到的攻擊傷害，但會在你的下一個回合開始時[red]消失[/red]。",
   "TUTORIAL_FTUE_BODY_3": "在你的回合中，你可以在敵人上方觀察到他們的[gold]意圖[/gold]。\n\n如果一個敵人的意圖是要攻擊你，那你最好能夠[gold]格擋[/gold]！",
   "TUTORIAL_FTUE_TITLE": "教程"
 }
