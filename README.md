@@ -12,6 +12,9 @@ Slay The Spire 2 繁體中文在地化翻譯
 1. 下載本專案最新的翻譯文件。
 2. 將本專案 `./localization_override/zhs` 資料夾放置於 `%APPDATA%\SlayTheSpire2\localization_override` 路徑下。
 
+> [!NOTE]
+> 或是執行 `patch.bat`。
+
 ## 翻譯
 
 - 中文段落中括號以根據[《重訂標點符號手冊》修訂版](https://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/HAU/haushou.htm)將括號 `“”` 替換成 `「」`，英文段落則保留 `“”`。
