@@ -2,6 +2,9 @@
 
 Slay The Spire 2 繁體中文在地化翻譯
 
+> [!IMPORTANT]
+> 遊戲版本：`v.0.99.1`
+
 ## 使用方法
 
 ### Windows
