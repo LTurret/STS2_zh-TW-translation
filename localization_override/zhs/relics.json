@@ -192,7 +192,7 @@
   "DEMON_TONGUE.description": "當你第一次在自身回合內失去生命值時，回覆等量的生命值。",
   "DEMON_TONGUE.flavor": "[red]這個遺物的細節將在未來揭曉……[/red]",
   "DEMON_TONGUE.title": "惡魔之舌",
-  "DEPRECATED_RELIC.description": "這件遺物已經從遊戲中被移除。它在這里僅做紀念意義。",
+  "DEPRECATED_RELIC.description": "這件遺物已經從遊戲中被移除。它在這裡僅做紀念意義。",
   "DEPRECATED_RELIC.flavor": "[red]這個遺物的細節將在未來揭曉……[/red]",
   "DEPRECATED_RELIC.title": "棄用遺物",
   "DIAMOND_DIADEM.description": "如果你在本回合打出的牌少於等於[blue]{CardThreshold}[/blue]張，則受到敵人的傷害減半。",

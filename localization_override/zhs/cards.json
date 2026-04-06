@@ -552,7 +552,7 @@
   "HIGH_FIVE.title": "擊掌",
   "HOLOGRAM.description": "獲得{Block:diff()}點[gold]格擋[/gold]。\n將[gold]棄牌堆[/gold]中的一張牌放入你的[gold]手牌[/gold]。",
   "HOLOGRAM.selectionScreenPrompt": "選擇一張牌加入你的手牌",
-  "HOLOGRAM.title": "全息影像",
+  "HOLOGRAM.title": "全像攝影",
   "HOTFIX.description": "在本回合獲得{FocusPower:diff()}點[gold]集中[/gold]。",
   "HOTFIX.title": "熱修復",
   "HOWL_FROM_BEYOND.description": "對所有敵人造成{Damage:diff()}點傷害。\n在你的回合開始時，從[gold]消耗牌堆[/gold]將此牌打出。",
