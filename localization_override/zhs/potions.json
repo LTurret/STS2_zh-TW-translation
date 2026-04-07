@@ -36,7 +36,7 @@
   "DROPLET_OF_PRECOGNITION.selectionScreenPrompt": "選擇一張牌放入你的手牌。",
   "DROPLET_OF_PRECOGNITION.title": "預知之滴",
   "DUPLICATOR.description": "本回合，你打出的下一張牌會額外打出一次。",
-  "DUPLICATOR.title": "覆制藥水",
+  "DUPLICATOR.title": "複製藥水",
   "ENERGY_POTION.description": "獲得{Energy:energyIcons()}。",
   "ENERGY_POTION.title": "能量藥水",
   "ENTROPIC_BREW.description": "在所有空藥水欄位中獲得隨機藥水。",

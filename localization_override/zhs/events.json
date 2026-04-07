@@ -366,7 +366,7 @@
   "RANWID_THE_ELDER.pages.RELIC.description": "[sine]「真是經典…」[/sine]\n\n蘭偉德仔細地觀察了這件遺物好幾分鐘……\n\n然後把[gold]{Relic}[/gold]吃了下去。",
   "RANWID_THE_ELDER.title": "長者蘭偉德",
   "REFLECTIONS.pages.INITIAL.description": "這是什麼？這裡感覺不太對勁….\n[sine]….勁對太不覺感里這？麼什是這[/sine]",
-  "REFLECTIONS.pages.INITIAL.options.SHATTER.description": "覆制你的整個[gold]牌組[/gold]。獲得[purple]黴運[/purple]。",
+  "REFLECTIONS.pages.INITIAL.options.SHATTER.description": "複製你的整個[gold]牌組[/gold]。獲得[purple]黴運[/purple]。",
   "REFLECTIONS.pages.INITIAL.options.SHATTER.title": "打碎",
   "REFLECTIONS.pages.INITIAL.options.TOUCH_A_MIRROR.description": "[red]降級[/red][blue]2[/blue]張隨機卡牌。[green]升級[/green][blue]4[/blue]張隨機卡牌。",
   "REFLECTIONS.pages.INITIAL.options.TOUCH_A_MIRROR.title": "觸碰鏡子",

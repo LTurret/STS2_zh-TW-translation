@@ -1,5 +1,5 @@
 {
-  "OPTION_CLONE.description": "將所有帶有[gold]{EnchantmentName}[/gold]附魔的牌覆制一次。",
+  "OPTION_CLONE.description": "將所有帶有[gold]{EnchantmentName}[/gold]附魔的牌複製一次。",
   "OPTION_CLONE.name": "克隆",
   "OPTION_COOK.description": "從[gold]牌組[/gold]中移除[gold]移除[/gold][blue]{Cards}[/blue]並獲得[green]{MaxHp}[/green]點最大生命值。",
   "OPTION_COOK.descriptionDisabled": "[red]你需要在牌組中至少有2張可以移除的牌。[/red]",
