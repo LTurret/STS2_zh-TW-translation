@@ -53,4 +53,4 @@
 
 - `DOLL_ROOM.pages.MR_STRUGGLES.description`
    > 當你拾起那尊破損不堪的玩偶時，所有的喧囂都戛然而止。
-   > 這一尊，**始終**緘默。
+   > 這一尊，始終**緘默**。
